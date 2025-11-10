@@ -1,0 +1,19 @@
+Altium Designer Pick and Place Locations
+C:\Users\micha\Documents\git\beaglebone-cape-board\REV0\PROJECT\Project Outputs for beaglebone_cape_board\Pick Place for 001-0002_beaglebone_cape_board.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       10/11/25
+Time:       14:09
+Revision:   34470a556cd16415f0207d25903c14552296b3f1
+Variant:    No variations
+Units used: mil
+
+Designator Comment     Layer    Footprint                        Center-X(mil) Center-Y(mil) Rotation Description                                                              
+J6         5-1814832-2 TopLayer 5-1814832-2                      1650.000      2355.000      270      "SMA Connector Jack, Female Socket 50 Ohms Through Hole Solder"          
+J5         5-1814832-2 TopLayer 5-1814832-2                      480.000       730.000       270      "SMA Connector Jack, Female Socket 50 Ohms Through Hole Solder"          
+J4         5-1814832-2 TopLayer 5-1814832-2                      485.000       1720.000      270      "SMA Connector Jack, Female Socket 50 Ohms Through Hole Solder"          
+J3         5-1814832-2 TopLayer 5-1814832-2                      490.000       2355.000      270      "SMA Connector Jack, Female Socket 50 Ohms Through Hole Solder"          
+J2         2076        TopLayer HDRV46W64P254_2X23_5842X500X874P 2020.000      1530.000      270      "Adafruit Accessories 2x23 Male Headers for BeagleBone Black - Two Pack" 
+J1         2076        TopLayer HDRV46W64P254_2X23_5842X500X874P 125.000       1530.000      270      "Adafruit Accessories 2x23 Male Headers for BeagleBone Black - Two Pack" 
