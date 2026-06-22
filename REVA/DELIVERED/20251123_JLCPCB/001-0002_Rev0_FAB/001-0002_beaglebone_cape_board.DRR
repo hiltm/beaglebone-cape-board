@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: 001-0002_beaglebone_cape_board.PcbDoc   11/23/2025  1:01:05 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : 001-0002_beaglebone_cape_board.TXT
+EIA File   : 001-0002_beaglebone_cape_board.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      34mil (0.851mm)                                           Round             92        PTH        12.59inch (319.79mm)
+T2      59mil (1.501mm)                                           Round             4         PTH        3.80inch (96.45mm)
+T3      63mil (1.6mm)                                             Round             16        PTH        6.18inch (156.97mm)
+T4      98mil (2.499mm)                                           Round             4         PTH        6.16inch (156.41mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              116
+
+Total Processing Time (hh:mm:ss) : 00:00:01

@@ -1,0 +1,22 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [beaglebone_cape_board.PrjPcb]
+   Generated File[001-0002_beaglebone_cape_board.GTO]
+   Generated File[001-0002_beaglebone_cape_board.GTP]
+   Generated File[001-0002_beaglebone_cape_board.GTS]
+   Generated File[001-0002_beaglebone_cape_board.GTL]
+   Generated File[001-0002_beaglebone_cape_board.GBL]
+   Generated File[001-0002_beaglebone_cape_board.GBS]
+   Generated File[001-0002_beaglebone_cape_board.GBP]
+   Generated File[001-0002_beaglebone_cape_board.GBO]
+   Generated File[001-0002_beaglebone_cape_board.GD1]
+   Generated File[001-0002_beaglebone_cape_board.GG1]
+   Generated File[001-0002_beaglebone_cape_board.GM]
+   Generated File[001-0002_beaglebone_cape_board.EXTREP]
+   Generated File[001-0002_beaglebone_cape_board.REP]
+
+
+Files Generated   : 13
+Documents Printed : 0
+
+Finished Output Generation At 1:57:26 AM On 6/21/2026

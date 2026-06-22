@@ -1,0 +1,21 @@
+Altium Designer Pick and Place Locations
+C:\Users\micha\Documents\git\beaglebone-cape-board\REVA\PROJECT\Project Outputs for beaglebone_cape_board\Pick Place for 001-0002_beaglebone_cape_board.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       21/06/26
+Time:       01:36
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment     Layer    Footprint                        Center-X(mil) Center-Y(mil) Rotation Description                                                              
+J7         5-1814832-2 TopLayer 5-1814832-2                      900.000       1100.000      270      "SMA Connector Jack, Female Socket 50 Ohms Through Hole Solder"          
+J3         5-1814832-2 TopLayer 5-1814832-2                      900.000       1900.000      270      "SMA Connector Jack, Female Socket 50 Ohms Through Hole Solder"          
+J8         5-1814832-2 TopLayer 5-1814832-2                      1650.000      2355.000      315      "SMA Connector Jack, Female Socket 50 Ohms Through Hole Solder"          
+J6         5-1814832-2 TopLayer 5-1814832-2                      490.000       1110.000      270      "SMA Connector Jack, Female Socket 50 Ohms Through Hole Solder"          
+J5         5-1814832-2 TopLayer 5-1814832-2                      490.000       1900.000      270      "SMA Connector Jack, Female Socket 50 Ohms Through Hole Solder"          
+J4         5-1814832-2 TopLayer 5-1814832-2                      686.850       2355.000      270      "SMA Connector Jack, Female Socket 50 Ohms Through Hole Solder"          
+J2         2076        TopLayer HDRV46W64P254_2X23_5842X500X874P 2020.000      1530.000      270      "Adafruit Accessories 2x23 Male Headers for BeagleBone Black - Two Pack" 
+J1         2076        TopLayer HDRV46W64P254_2X23_5842X500X874P 125.000       1530.000      270      "Adafruit Accessories 2x23 Male Headers for BeagleBone Black - Two Pack" 

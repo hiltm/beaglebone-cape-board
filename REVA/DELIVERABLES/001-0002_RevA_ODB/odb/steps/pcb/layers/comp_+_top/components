@@ -1,0 +1,210 @@
+UNITS=MM
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+@2 .no_pop
+@3 .comp_ignore
+@4 .comp_variant_list
+@5 .placement_layer
+
+#
+#Component attribute text strings
+#
+&0 top_layer
+
+# CMP 0
+CMP 0 22.86 27.94 90 N J7 5-1814832-2 ;0=2,1=15.1000,5=0
+PRP Datasheet_Link 'https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1-1773725-8_RF_COAX_QRG&DocType=Data%20Sheet&DocLang=English&PartCntxt=5-1814832-2&DocFormat=pdf'
+PRP Geometry.Height '9.5mm'
+PRP Manufacturer_Name 'TE Connectivity'
+PRP Manufacturer_Part_Number '5-1814832-2'
+PRP Mouser_Part_Number '571-5-1814832-2'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/TE-Connectivity/5-1814832-2?qs=Cb2nCFKsA8rPOrkEMAAQ4A%3D%3D'
+TOP 0 22.86 27.94 90 N 1 0 1
+TOP 1 20.32 30.48 90 N 7 6 2
+TOP 2 20.32 25.4 90 N 7 5 3
+TOP 3 25.4 25.4 90 N 7 23 4
+TOP 4 25.4 30.48 90 N 7 22 5
+#
+# CMP 1
+CMP 0 22.86 48.26 90 N J3 5-1814832-2 ;0=2,1=15.1000,5=0
+PRP Datasheet_Link 'https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1-1773725-8_RF_COAX_QRG&DocType=Data%20Sheet&DocLang=English&PartCntxt=5-1814832-2&DocFormat=pdf'
+PRP Geometry.Height '9.5mm'
+PRP Manufacturer_Name 'TE Connectivity'
+PRP Manufacturer_Part_Number '5-1814832-2'
+PRP Mouser_Part_Number '571-5-1814832-2'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/TE-Connectivity/5-1814832-2?qs=Cb2nCFKsA8rPOrkEMAAQ4A%3D%3D'
+TOP 0 22.86 48.26 90 N 6 0 1
+TOP 1 20.32 50.8 90 N 7 4 2
+TOP 2 20.32 45.72 90 N 7 3 3
+TOP 3 25.4 45.72 90 N 7 2 4
+TOP 4 25.4 50.8 90 N 7 7 5
+#
+# CMP 2
+CMP 0 41.91 59.817 45 N J8 5-1814832-2 ;0=2,1=0.0000,5=0
+PRP Datasheet_Link 'https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1-1773725-8_RF_COAX_QRG&DocType=Data%20Sheet&DocLang=English&PartCntxt=5-1814832-2&DocFormat=pdf'
+PRP Geometry.Height '9.5mm'
+PRP Manufacturer_Name 'TE Connectivity'
+PRP Manufacturer_Part_Number '5-1814832-2'
+PRP Mouser_Part_Number '571-5-1814832-2'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/TE-Connectivity/5-1814832-2?qs=Cb2nCFKsA8rPOrkEMAAQ4A%3D%3D'
+TOP 0 41.91 59.817 45 N 5 0 1
+TOP 1 38.31789644 59.817 45 N 7 11 2
+TOP 2 41.91 56.22489644 45 N 7 12 3
+TOP 3 45.50210356 59.817 45 N 7 13 4
+TOP 4 41.91 63.40910356 45 N 7 8 5
+#
+# CMP 3
+CMP 0 12.446 28.194 90 N J6 5-1814832-2 ;0=2,1=0.0000,5=0
+PRP Datasheet_Link 'https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1-1773725-8_RF_COAX_QRG&DocType=Data%20Sheet&DocLang=English&PartCntxt=5-1814832-2&DocFormat=pdf'
+PRP Geometry.Height '9.5mm'
+PRP Manufacturer_Name 'TE Connectivity'
+PRP Manufacturer_Part_Number '5-1814832-2'
+PRP Mouser_Part_Number '571-5-1814832-2'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/TE-Connectivity/5-1814832-2?qs=Cb2nCFKsA8rPOrkEMAAQ4A%3D%3D'
+TOP 0 12.446 28.194 90 N 2 1 1
+TOP 1 9.906 30.734 90 N 7 21 2
+TOP 2 9.906 25.654 90 N 7 24 3
+TOP 3 14.986 25.654 90 N 7 27 4
+TOP 4 14.986 30.734 90 N 7 26 5
+#
+# CMP 4
+CMP 0 12.446 48.26 90 N J5 5-1814832-2 ;0=2,1=0.0000,5=0
+PRP Datasheet_Link 'https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1-1773725-8_RF_COAX_QRG&DocType=Data%20Sheet&DocLang=English&PartCntxt=5-1814832-2&DocFormat=pdf'
+PRP Geometry.Height '9.5mm'
+PRP Manufacturer_Name 'TE Connectivity'
+PRP Manufacturer_Part_Number '5-1814832-2'
+PRP Mouser_Part_Number '571-5-1814832-2'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/TE-Connectivity/5-1814832-2?qs=Cb2nCFKsA8rPOrkEMAAQ4A%3D%3D'
+TOP 0 12.446 48.26 90 N 3 1 1
+TOP 1 9.906 50.8 90 N 7 14 2
+TOP 2 9.906 45.72 90 N 7 15 3
+TOP 3 14.986 45.72 90 N 7 16 4
+TOP 4 14.986 50.8 90 N 7 25 5
+#
+# CMP 5
+CMP 0 17.44600016 59.817 90 N J4 5-1814832-2 ;0=2,1=0.0000,5=0
+PRP Datasheet_Link 'https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1-1773725-8_RF_COAX_QRG&DocType=Data%20Sheet&DocLang=English&PartCntxt=5-1814832-2&DocFormat=pdf'
+PRP Geometry.Height '9.5mm'
+PRP Manufacturer_Name 'TE Connectivity'
+PRP Manufacturer_Part_Number '5-1814832-2'
+PRP Mouser_Part_Number '571-5-1814832-2'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/TE-Connectivity/5-1814832-2?qs=Cb2nCFKsA8rPOrkEMAAQ4A%3D%3D'
+TOP 0 17.44600016 59.817 90 N 4 0 1
+TOP 1 14.90600016 62.357 90 N 7 18 2
+TOP 2 14.90600016 57.277 90 N 7 19 3
+TOP 3 19.98600016 57.277 90 N 7 20 4
+TOP 4 19.98600016 62.357 90 N 7 17 5
+#
+# CMP 6
+CMP 1 50.038 66.802 90 N J2 2076 ;0=2,1=0.0000,5=0
+PRP Datasheet_Link 'https://cdn-shop.adafruit.com/datasheets/16188.pdf'
+PRP Geometry.Height '8.74mm'
+PRP Manufacturer_Name 'Adafruit'
+PRP Manufacturer_Part_Number '2076'
+PRP Mouser_Part_Number '485-2076'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/Adafruit/2076?qs=GURawfaeGuBAvD7rncVFUg%3D%3D'
+TOP 0 50.038 66.802 90 N 5 1 1
+TOP 1 52.578 66.802 90 N 0 11 2
+TOP 2 50.038 64.262 90 N 0 13 3
+TOP 3 52.578 64.262 90 N 0 15 4
+TOP 4 50.038 61.722 90 N 0 14 5
+TOP 5 52.578 61.722 90 N 0 69 6
+TOP 6 50.038 59.182 90 N 0 68 7
+TOP 7 52.578 59.182 90 N 0 70 8
+TOP 8 50.038 56.642 90 N 0 72 9
+TOP 9 52.578 56.642 90 N 0 71 10
+TOP 10 50.038 54.102 90 N 0 64 11
+TOP 11 52.578 54.102 90 N 0 63 12
+TOP 12 50.038 51.562 90 N 0 65 13
+TOP 13 52.578 51.562 90 N 0 67 14
+TOP 14 50.038 49.022 90 N 0 66 15
+TOP 15 52.578 49.022 90 N 0 73 16
+TOP 16 50.038 46.482 90 N 0 80 17
+TOP 17 52.578 46.482 90 N 0 79 18
+TOP 18 50.038 43.942 90 N 0 81 19
+TOP 19 52.578 43.942 90 N 0 83 20
+TOP 20 50.038 41.402 90 N 0 82 21
+TOP 21 52.578 41.402 90 N 0 75 22
+TOP 22 50.038 38.862 90 N 0 74 23
+TOP 23 52.578 38.862 90 N 0 76 24
+TOP 24 50.038 36.322 90 N 0 78 25
+TOP 25 52.578 36.322 90 N 0 77 26
+TOP 26 50.038 33.782 90 N 0 48 27
+TOP 27 52.578 33.782 90 N 0 47 28
+TOP 28 50.038 31.242 90 N 0 49 29
+TOP 29 52.578 31.242 90 N 0 51 30
+TOP 30 50.038 28.702 90 N 0 50 31
+TOP 31 52.578 28.702 90 N 0 43 32
+TOP 32 50.038 26.162 90 N 0 42 33
+TOP 33 52.578 26.162 90 N 0 44 34
+TOP 34 50.038 23.622 90 N 0 46 35
+TOP 35 52.578 23.622 90 N 0 45 36
+TOP 36 50.038 21.082 90 N 0 52 37
+TOP 37 52.578 21.082 90 N 0 59 38
+TOP 38 50.038 18.542 90 N 0 58 39
+TOP 39 52.578 18.542 90 N 0 60 40
+TOP 40 50.038 16.002 90 N 0 62 41
+TOP 41 52.578 16.002 90 N 0 61 42
+TOP 42 50.038 13.462 90 N 0 54 43
+TOP 43 52.578 13.462 90 N 0 53 44
+TOP 44 50.038 10.922 90 N 0 55 45
+TOP 45 52.578 10.922 90 N 0 57 46
+#
+# CMP 7
+CMP 1 1.905 66.802 90 N J1 2076 ;0=2,1=0.0000,5=0
+PRP Datasheet_Link 'https://cdn-shop.adafruit.com/datasheets/16188.pdf'
+PRP Geometry.Height '8.74mm'
+PRP Manufacturer_Name 'Adafruit'
+PRP Manufacturer_Part_Number '2076'
+PRP Mouser_Part_Number '485-2076'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/Adafruit/2076?qs=GURawfaeGuBAvD7rncVFUg%3D%3D'
+TOP 0 1.905 66.802 90 N 7 10 1
+TOP 1 4.445 66.802 90 N 7 9 2
+TOP 2 1.905 64.262 90 N 0 27 3
+TOP 3 4.445 64.262 90 N 4 1 4
+TOP 4 1.905 61.722 90 N 0 26 5
+TOP 5 4.445 61.722 90 N 6 1 6
+TOP 6 1.905 59.182 90 N 0 28 7
+TOP 7 4.445 59.182 90 N 3 0 8
+TOP 8 1.905 56.642 90 N 0 30 9
+TOP 9 4.445 56.642 90 N 0 29 10
+TOP 10 1.905 54.102 90 N 0 22 11
+TOP 11 4.445 54.102 90 N 0 21 12
+TOP 12 1.905 51.562 90 N 0 23 13
+TOP 13 4.445 51.562 90 N 0 25 14
+TOP 14 1.905 49.022 90 N 0 24 15
+TOP 15 4.445 49.022 90 N 0 31 16
+TOP 16 1.905 46.482 90 N 0 38 17
+TOP 17 4.445 46.482 90 N 0 37 18
+TOP 18 1.905 43.942 90 N 0 39 19
+TOP 19 4.445 43.942 90 N 0 41 20
+TOP 20 1.905 41.402 90 N 0 40 21
+TOP 21 4.445 41.402 90 N 0 33 22
+TOP 22 1.905 38.862 90 N 0 32 23
+TOP 23 4.445 38.862 90 N 0 34 24
+TOP 24 1.905 36.322 90 N 0 36 25
+TOP 25 4.445 36.322 90 N 0 35 26
+TOP 26 1.905 33.782 90 N 0 6 27
+TOP 27 4.445 33.782 90 N 0 5 28
+TOP 28 1.905 31.242 90 N 0 7 29
+TOP 29 4.445 31.242 90 N 0 9 30
+TOP 30 1.905 28.702 90 N 0 8 31
+TOP 31 4.445 28.702 90 N 2 0 32
+TOP 32 1.905 26.162 90 N 0 1 33
+TOP 33 4.445 26.162 90 N 1 1 34
+TOP 34 1.905 23.622 90 N 0 0 35
+TOP 35 4.445 23.622 90 N 0 2 36
+TOP 36 1.905 21.082 90 N 0 4 37
+TOP 37 4.445 21.082 90 N 0 3 38
+TOP 38 1.905 18.542 90 N 0 10 39
+TOP 39 4.445 18.542 90 N 0 56 40
+TOP 40 1.905 16.002 90 N 0 17 41
+TOP 41 4.445 16.002 90 N 0 16 42
+TOP 42 1.905 13.462 90 N 0 18 43
+TOP 43 4.445 13.462 90 N 0 20 44
+TOP 44 1.905 10.922 90 N 0 19 45
+TOP 45 4.445 10.922 90 N 0 12 46
+#

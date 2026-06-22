@@ -1,0 +1,25 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [beaglebone_cape_board.PrjPcb]
+   Generated File[001-0002_beaglebone_cape_board_Legend_Top.gbr]
+   Generated File[001-0002_beaglebone_cape_board_Paste_Top.gbr]
+   Generated File[001-0002_beaglebone_cape_board_Soldermask_Top.gbr]
+   Generated File[001-0002_beaglebone_cape_board_Copper_Signal_Top.gbr]
+   Generated File[001-0002_beaglebone_cape_board_Copper_Signal_Bot.gbr]
+   Generated File[001-0002_beaglebone_cape_board_Soldermask_Bot.gbr]
+   Generated File[001-0002_beaglebone_cape_board_Paste_Bot.gbr]
+   Generated File[001-0002_beaglebone_cape_board_Mechanical_1.gbr]
+   Generated File[001-0002_beaglebone_cape_board_Top_3D_Body.gbr]
+   Generated File[001-0002_beaglebone_cape_board_Top_Courtyard.gbr]
+   Generated File[001-0002_beaglebone_cape_board_Mechanical_20.gbr]
+   Generated File[001-0002_beaglebone_cape_board_Pads_Top.gbr]
+   Generated File[001-0002_beaglebone_cape_board_Pads_Bot.gbr]
+   Generated File[001-0002_beaglebone_cape_board_Profile.gbr]
+   Generated File[001-0002_beaglebone_cape_board.EXTREP]
+   Generated File[001-0002_beaglebone_cape_board.REP]
+
+
+Files Generated   : 16
+Documents Printed : 0
+
+Finished Output Generation At 12:58:43 PM On 11/23/2025

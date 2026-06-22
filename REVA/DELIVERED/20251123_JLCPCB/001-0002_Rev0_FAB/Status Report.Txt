@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [beaglebone_cape_board.PrjPcb]
+   Generated File[001-0002_beaglebone_cape_board.TXT]
+   Generated File[001-0002_beaglebone_cape_board.DRL]
+   Generated File[001-0002_beaglebone_cape_board.LDP]
+   Generated File[001-0002_beaglebone_cape_board.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 1:01:06 PM On 11/23/2025
